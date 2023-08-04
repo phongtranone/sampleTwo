@@ -4,6 +4,7 @@ public class TC002_Booking_AnyRide {
     String tipLabel = "Tips for driver";
     String commitStr = "C2";
     String commitStr1 = "C3";
+    String commitStr2 = "C4";
   }
 
   public void addTipsForDriver(){
