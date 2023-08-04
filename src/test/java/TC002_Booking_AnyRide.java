@@ -12,4 +12,8 @@ public class TC002_Booking_AnyRide {
   public void selectPickup(){
     String yourPickupAddress;
   }
+
+  public void selectDestination(){
+    String yourDestination = "LWK";
+  }
 }
