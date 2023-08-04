@@ -5,4 +5,8 @@ public class TC001_Booking_Taxi {
         String yourOTP;
         String yourNotes = "Pick me at the entrance";
     }
+
+    public void addPromoCode(String promoCode){
+        String expectedPromo = "";
+    }
 }
