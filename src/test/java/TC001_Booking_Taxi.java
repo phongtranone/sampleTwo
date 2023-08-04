@@ -4,7 +4,8 @@ public class TC001_Booking_Taxi {
         int yourPhone;
         String yourOTP;
         String yourNotes = "Pick me at the entrance";
-        String yourPromo = "MyPromoCode333";
+        String yourPromo = "MyPromo1111";
+        String yourPromo1 = "MyPromoCode333";
     }
 
     public void addPromoCode(String promoCode){
