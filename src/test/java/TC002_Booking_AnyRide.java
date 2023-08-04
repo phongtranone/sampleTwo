@@ -8,4 +8,8 @@ public class TC002_Booking_AnyRide {
   public void addTipsForDriver(){
     int yourTips = 12;
   }
+
+  public void selectPickup(){
+    String yourPickupAddress;
+  }
 }
