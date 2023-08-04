@@ -3,4 +3,8 @@ public class TC002_Booking_AnyRide {
     String labelBtn = "Booking";
     String tipLabel = "Tips for driver";
   }
+
+  public void addTipsForDriver(){
+    int yourTips = 12;
+  }
 }
