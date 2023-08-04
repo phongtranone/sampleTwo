@@ -4,14 +4,10 @@ public class TC001_Booking_Taxi {
         int yourPhone;
         String yourOTP;
         String yourNotes = "Pick me at the entrance";
-        String yourPromo = "MyPromoCode3";
+        String yourPromo = "MyPromo1";
     }
 
     public void addPromoCode(String promoCode){
         String expectedPromo = "";
-    }
-
-    public String getPickupLocation(){
-        return "Davao";
     }
 }
