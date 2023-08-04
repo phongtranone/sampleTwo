@@ -6,7 +6,7 @@ public class TC002_Booking_AnyRide {
   }
 
   public void addTipsForDriver(){
-    int yourTips = 12;
+    int yourTips = 20;
   }
 
   public void selectPickup(){
@@ -15,5 +15,9 @@ public class TC002_Booking_AnyRide {
 
   public void selectDestination(){
     String yourDestination = "LWK";
+  }
+
+  public void chooseOnYourMap(){
+    String addressLocation = "KUL";
   }
 }
