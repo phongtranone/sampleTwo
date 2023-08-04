@@ -10,4 +10,8 @@ public class TC001_Booking_Taxi {
     public void addPromoCode(String promoCode){
         String expectedPromo = "";
     }
+
+    public String getPickupLocation(){
+        return "Davao";
+    }
 }
