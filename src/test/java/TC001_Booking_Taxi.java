@@ -3,5 +3,6 @@ public class TC001_Booking_Taxi {
         String yourLocation;
         int yourPhone;
         String yourOTP;
+        String yourNotes = "Pick me at the entrance";
     }
 }
