@@ -9,7 +9,7 @@
 <body>
 
     <div id="test">
-        <strong>testing123</strong>
+      
     </div>
 	<a href="./pageone.html">Next step</a>
     
@@ -17,11 +17,10 @@
 
 <script>
     $(function(){
-
-    $('#test').hide();
+    const container = document.querySelector("#test");
 
     setTimeout(function(){
-        $('#test').fadeIn('slow');
+        container.innerHTML += '<h1 id="test2"> hello111</h1>';
     },3000);
 });
 </script>
